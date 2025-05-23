@@ -77,3 +77,13 @@
 [03:58:12] [Server thread/INFO]: .FlimsyAgenda666 joined the game
 [03:58:12] [Server thread/INFO]: .FlimsyAgenda666[/127.0.0.1:0] logged in with entity id 808 at ([world]-87.20017, -33.0, -71.05066)
 [03:58:31] [Server thread/INFO]: .FlimsyAgenda666 has made the advancement [Not Today, Thank You]
+[04:00:51] [Server thread/INFO]: Taka_la hit the ground too hard
+[04:00:53] [Server thread/INFO]: Katsuhira was slain by Zombie
+[04:02:46] [Server thread/INFO]: Set the time to 1000
+[04:04:52] [Server thread/INFO]: Made Taka_la a server operator
+[04:05:16] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira title manco
+[04:05:46] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira title {manco}
+[04:06:15] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira title {text: "manco"",}
+[04:06:23] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira title
+[04:06:36] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira subtitle
+[04:06:40] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira subtitle manco
