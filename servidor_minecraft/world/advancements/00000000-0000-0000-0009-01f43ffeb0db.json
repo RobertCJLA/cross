@@ -9,7 +9,9 @@
     "criteria": {
       "minecraft:forest": "2025-05-23 03:05:56 +0000",
       "minecraft:taiga": "2025-05-23 03:39:14 +0000",
+      "minecraft:river": "2025-05-23 04:17:01 +0000",
       "minecraft:meadow": "2025-05-23 03:08:12 +0000",
+      "minecraft:stony_shore": "2025-05-23 04:19:06 +0000",
       "minecraft:plains": "2025-05-23 03:11:55 +0000"
     },
     "done": false

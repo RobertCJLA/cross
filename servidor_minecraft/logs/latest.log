@@ -102,3 +102,54 @@
 [04:14:20] [Server thread/INFO]: Katsuhira has made the advancement [Sweet Dreams]
 [04:16:30] [Server thread/INFO]: Katsuhira burned to death
 [04:19:46] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira manco
+[04:20:08] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:20:23] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:20:38] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:23:02] [Server thread/WARN]: .FlimsyAgenda666 moved wrongly!
+[04:23:03] [Server thread/INFO]: Katsuhira has made the advancement [Diamonds!]
+[04:25:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+Taka_la hola<--[HERE]
+[04:27:02] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:27:15] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:27:17] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:27:18] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:27:19] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:27:20] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira decile a ramon que 7-0
+[04:27:28] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .FlimsyAgenda666 disconnected
+[04:27:28] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] FlimsyAgenda666 has disconnected from the Java server because of Bedrock client disconnected
+[04:27:28] [Server thread/INFO]: .FlimsyAgenda666 lost connection: Disconnected
+[04:27:28] [Server thread/INFO]: .FlimsyAgenda666 left the game
+[04:28:17] [Server thread/INFO]: Katsuhira lost connection: Disconnected
+[04:28:17] [Server thread/INFO]: Katsuhira left the game
+[04:28:34] [Server thread/INFO]: Taka_la lost connection: Disconnected
+[04:28:34] [Server thread/INFO]: Taka_la left the game
+[04:28:46] [Server thread/INFO]: Stopping the server
+[04:28:46] [Server thread/INFO]: Stopping server
+[04:28:46] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[04:28:46] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[04:28:46] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[04:28:46] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[04:28:46] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[04:28:46] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[04:28:46] [Server thread/INFO]: Saving players
+[04:28:46] [Server thread/INFO]: Saving worlds
+[04:28:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:28:46] [WebSocketConnectReadThread-88/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Saved 27 block chunks, 201 entity chunks, 1 poi chunks in world 'world' in 0.08s
+[04:28:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[04:28:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:28:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:28:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:28:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:28:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:28:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
