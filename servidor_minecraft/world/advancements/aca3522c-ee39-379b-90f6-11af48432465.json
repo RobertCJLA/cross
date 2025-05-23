@@ -64,8 +64,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-23 04:15:23 +0000",
       "mutton": "2025-05-23 03:09:30 +0000",
       "chicken": "2025-05-23 03:10:51 +0000",
+      "cooked_chicken": "2025-05-23 04:12:51 +0000",
       "cooked_mutton": "2025-05-23 03:41:40 +0000",
       "cooked_beef": "2025-05-23 03:24:02 +0000",
       "beef": "2025-05-23 03:09:57 +0000"
@@ -729,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 04:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 03:52:16 +0000"
@@ -786,6 +794,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-23 03:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-23 04:14:20 +0000"
     },
     "done": true
   },

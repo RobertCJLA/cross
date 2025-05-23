@@ -87,3 +87,18 @@
 [04:06:23] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira title
 [04:06:36] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira subtitle
 [04:06:40] [Server thread/INFO]: Taka_la issued server command: /title Katsuhira subtitle manco
+[04:10:18] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] FlimsyAgenda666 has disconnected from the Java server because of Bedrock client disconnected
+[04:10:18] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .FlimsyAgenda666 disconnected
+[04:10:18] [Server thread/INFO]: .FlimsyAgenda666 lost connection: Disconnected
+[04:10:18] [Server thread/INFO]: .FlimsyAgenda666 left the game
+[04:11:10] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username FlimsyAgenda666
+[04:11:10] [localSession-7-3/INFO]: [Geyser-Spigot] FlimsyAgenda666 (logged in as: FlimsyAgenda666) has connected to the Java server
+[04:11:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .FlimsyAgenda666 joined (UUID: 00000000-0000-0000-0009-01f43ffeb0db)
+[04:11:11] [Server thread/INFO]: .FlimsyAgenda666 joined the game
+[04:11:11] [Server thread/INFO]: .FlimsyAgenda666[/127.0.0.1:0] logged in with entity id 3129 at ([world]-90.94763, -34.0, -70.45314)
+[04:11:40] [Server thread/INFO]: Taka_la fell from a high place
+[04:12:52] [Server thread/INFO]: Taka_la has made the advancement [Sweet Dreams]
+[04:13:47] [Server thread/INFO]: .FlimsyAgenda666 has made the advancement [Sweet Dreams]
+[04:14:20] [Server thread/INFO]: Katsuhira has made the advancement [Sweet Dreams]
+[04:16:30] [Server thread/INFO]: Katsuhira burned to death
+[04:19:46] [Server thread/INFO]: Taka_la issued server command: /msg Katsuhira manco
